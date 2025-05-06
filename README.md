@@ -2,7 +2,7 @@
 
 💻 **Oracle APEX Developer | Certified OCI Specialist | Cross-Platform UI Enthusiast**
 
-I'm a passionate and results-driven Oracle APEX Developer with a Bachelor's degree in Computer Information Systems and over 2 years of hands-on experience, including 1+ year focused on Oracle APEX. I specialize in building **scalable, user-centric applications** using Oracle tools and modern front-end technologies.
+I'm a passionate and results-driven Oracle APEX Developer with a Bachelor's degree in Bachelor’s in I.S and Computer Technology and over 2 years of hands-on experience, including 1+ year focused on Oracle APEX. I specialize in building **scalable, user-centric applications** using Oracle tools and modern front-end technologies.
 
 ---
 

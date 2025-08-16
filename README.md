@@ -121,7 +121,7 @@
   <a href="mailto:malek.m.edresi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-malek.m.edresi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/malek-al-edresi-0a487720b">
+  <a href="https://linkedin.com/in/malek-al-edresi">
     <img src="https://img.shields.io/badge/LinkedIn-Malek_Al_Edresi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/malek-mohammed7788">

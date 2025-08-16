@@ -69,7 +69,7 @@
 
 ### ⛽ Fuel Tracking Enterprise System  
 > **Legacy modernization project** for Public Telecommunications Corporation  
-> - 🚀 40% faster transactions after Oracle Forms 61 → APEX 24.1 migration  
+> - 🚀 40% faster transactions after Oracle Forms 6i → APEX 24.1 migration  
 > - 📉 30% data redundancy reduction via schema optimization  
 > - 🌐 Bilingual interface (Arabic/English) with automated compliance  
 > *Tech: APEX 24.1 • JavaScript • Oracle DB • Agile*

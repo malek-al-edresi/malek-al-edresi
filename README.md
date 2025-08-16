@@ -1,11 +1,4 @@
 <!-- ============================ -->
-<!--          PERSONAL BANNER     -->
-<!-- ============================ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/banner.png" alt="Malek Mohammad Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(10,102,194,.4);" />
-</p>
-
-<!-- ============================ -->
 <!--       HEADER & TAGLINE       -->
 <!-- ============================ -->
 <h1 align="center" style="font-weight: 900; color: #004aad; letter-spacing: 4px; margin-bottom: 10px;">

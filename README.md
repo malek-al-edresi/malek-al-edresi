@@ -1,13 +1,18 @@
 <!-- ============================ -->
+<!--          PERSONAL BANNER     -->
+<!-- ============================ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/banner.png" alt="Malek Mohammad Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(10,102,194,.4);" />
+</p>
+
+<!-- ============================ -->
 <!--       HEADER & TAGLINE       -->
 <!-- ============================ -->
-<h1 align="center" style="font-weight: 900; color: #004aad; letter-spacing: 3px; margin-bottom: 5px;">
+<h1 align="center" style="font-weight: 900; color: #004aad; letter-spacing: 4px; margin-bottom: 10px;">
   Malek Mohammed Al-Edresi
 </h1>
-<h3 align="center" style="font-weight: 600; color: #2e2e2e; margin-top: 5px;">
-  <img src="https://img.icons8.com/color/24/000000/oracle-logo.png" width="20" height="20"/> Oracle APEX Developer | 
-  <img src="https://img.icons8.com/color/24/000000/flutter.png" width="20" height="20"/> Flutter Specialist | 
-  <img src="https://img.icons8.com/color/24/000000/database.png" width="20" height="20"/> Database Architect
+<h3 align="center" style="font-weight: 600; color: #2e2e2e; margin-top: 0;">
+  🚀 Oracle APEX Developer | Flutter Specialist | Database Architect
 </h3>
 
 ---
@@ -15,120 +20,122 @@
 <!-- ============================ -->
 <!--           ABOUT ME           -->
 <!-- ============================ -->
-## <img src="https://img.icons8.com/3d-fluency/24/identity-theft.png" width="28" height="28"/> About Me
-> **Oracle APEX & Full-Stack Developer** with 2+ years transforming enterprise systems through modern architecture  
+## 🎯 About Me
+> **Oracle APEX & Full-Stack Developer** with 2+ years of experience specializing in enterprise application modernization.  
 >  
-> <img src="https://img.icons8.com/color/24/rocket.png" width="20" height="20"/> Migrated legacy systems to APEX 24.1 with **40% performance gains**  
-> <img src="https://img.icons8.com/color/24/shield.png" width="20" height="20"/> Designed **modular databases** (50+ tables) with 8-tier security protocols  
-> <img src="https://img.icons8.com/color/24/artificial-intelligence.png" width="20" height="20"/> Oracle AI & Cloud Certified professional  
-> <img src="https://img.icons8.com/color/24/translator.png" width="20" height="20"/> Bilingual solutions (Arabic/English) for global healthcare systems  
-> <img src="https://img.icons8.com/color/24/api-settings.png" width="20" height="20"/> RESTful API integrations with real-time synchronization  
+> 🔹 Expert in migrating legacy systems (Oracle Forms → APEX 24.1) with **40% performance gains**  
+> 🔹 Architect of **modular database solutions** (50+ tables) with 8-tier security  
+> 🔹 Certified in **Oracle Cloud AI** and **APEX Development** with clean code principles  
+> 🔹 Bilingual developer (Arabic/English) focused on **scalable healthcare tech**  
+> 🔹 Agile practitioner delivering **RESTful integrations** and real-time analytics  
 
 ---
 
 <!-- ============================ -->
-<!--         TECH STACK           -->
+<!--         TECH STACK          -->
 <!-- ============================ -->
-## <img src="https://img.icons8.com/3d-fluency/24/settings.png" width="28" height="28"/> Technical Expertise
+## ⚙️ Technical Expertise
 
-### <img src="https://img.icons8.com/color/24/server.png" width="24" height="24"/> Backend & Database
-<div>
-  <img src="https://img.shields.io/badge/PL/SQL-000000?style=for-the-badge&logo=oracle&logoColor=red" alt="PL/SQL">
-  <img src="https://img.shields.io/badge/Oracle_APEX-24.1-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/Oracle_DB-000000?style=for-the-badge&logo=oracle&logoColor=red" alt="Oracle DB">
-  <img src="https://img.shields.io/badge/Jasper_Server-%2300F.svg?style=for-the-badge&logo=jasper&logoColor=white" alt="Jasper">
-</div>
+### 🗃️ Backend & Database
+![PL/SQL](https://img.shields.io/badge/PL/SQL-000000?style=flat&logo=oracle&logoColor=red)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-24.1-F80000?style=flat&logo=oracle&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=json&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-000000?style=flat&logo=oracle&logoColor=red)
+![JasperReports](https://img.shields.io/badge/Jasper_Server-%2300F.svg?style=flat&logo=jasper&logoColor=white)
 
-### <img src="https://img.icons8.com/color/24/monitor.png" width="24" height="24"/> Frontend & Mobile
-<div>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Clean_Architecture-45D1FD?style=for-the-badge&logo=clean&logoColor=black" alt="Clean Architecture">
-  <img src="https://img.shields.io/badge/State_Management-Provider-3F51B5?style=for-the-badge" alt="Provider">
-</div>
+### 📱 Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-45D1FD?style=flat&logo=clean&logoColor=black)
+![Provider](https://img.shields.io/badge/State_Management-Provider-3F51B5?style=flat)
 
-### <img src="https://img.icons8.com/color/24/cloud.png" width="24" height="24"/> Cloud & AI
-<div>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oraclecloud&logoColor=white" alt="OCI">
-  <img src="https://img.shields.io/badge/AI_Vector_Search-FF6D00?style=for-the-badge&logo=ai&logoColor=white" alt="AI Vector">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</div>
+### ☁️ Cloud & AI
+![OCI](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=flat&logo=oracle&logoColor=white)
+![AI Vector Search](https://img.shields.io/badge/AI_Vector_Search-FF6D00?style=flat&logo=ai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🔧 Tools & Methodologies
+![Agile](https://img.shields.io/badge/Agile-009688?style=flat&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![ER Modeling](https://img.shields.io/badge/ER_Modeling-4479A1?style=flat&logo=diagramsdotnet&logoColor=white)
 
 ---
 
 <!-- ============================ -->
 <!--        KEY PROJECTS          -->
 <!-- ============================ -->
-## <img src="https://img.icons8.com/3d-fluency/24/project.png" width="28" height="28"/> Featured Projects
+## 💼 Featured Projects
 
-### <img src="https://img.icons8.com/color/24/hospital.png" width="24" height="24"/> AL-MALIK Medical Center System  
-> **Comprehensive healthcare management platform** with APEX backend and Flutter mobile interface  
-> <img src="https://img.icons8.com/color/24/checkmark.png" width="16" height="16"/> **Modular database** (50+ tables across 8 domains)  
-> <img src="https://img.icons8.com/color/24/security-checked.png" width="16" height="16"/> **8-tier RBAC** with real-time audit trails  
-> <img src="https://img.icons8.com/color/24/api.png" width="16" height="16"/> **REST API sync** between APEX and Flutter  
-> <img src="https://img.icons8.com/color/24/multilingual.png" width="16" height="16"/> **Bilingual reporting** with JasperServer  
+### 🏥 AL-MALIK Medical Center System  
+> **Full-stack healthcare solution** with 137+ APEX modules and Flutter mobile app  
+> - ✅ Modular database architecture (50+ tables across 8 domains)  
+> - ✅ 8-tier RBAC security with real-time audit logging  
+> - ✅ REST API sync between APEX backend & Flutter frontend  
+> - ✅ Multi-language reporting engine with JasperServer  
+> *Tech: Oracle APEX 24.1 • PL/SQL • Flutter • OCI • Clean Architecture*
 
-### <img src="https://img.icons8.com/color/24/gas-station.png" width="24" height="24"/> Fuel Tracking Enterprise System  
-> **Legacy modernization** for Public Telecommunications Corporation  
-> <img src="https://img.icons8.com/color/24/performance.png" width="16" height="16"/> **40% faster** transactions post-migration  
-> <img src="https://img.icons8.com/color/24/data-backup.png" width="16" height="16"/> **30% redundancy reduction** via schema optimization  
-> <img src="https://img.icons8.com/color/24/automatic.png" width="16" height="16"/> Automated compliance reporting  
+### ⛽ Fuel Tracking Enterprise System  
+> **Legacy modernization project** for Public Telecommunications Corporation  
+> - 🚀 40% faster transactions after Oracle Forms 61 → APEX 24.1 migration  
+> - 📉 30% data redundancy reduction via schema optimization  
+> - 🌐 Bilingual interface (Arabic/English) with automated compliance  
+> *Tech: APEX 24.1 • JavaScript • Oracle DB • Agile*
 
-### <img src="https://img.icons8.com/color/24/wallet.png" width="24" height="24"/> Secure E-Wallet Application  
-> **Financial transaction platform** with Firebase integration  
-> <img src="https://img.icons8.com/color/24/encryption.png" width="16" height="16"/> Biometric authentication  
-> <img src="https://img.icons8.com/color/24/cloud-sync.png" width="16" height="16"/> Firebase-OCI synchronization  
-> <img src="https://img.icons8.com/color/24/transaction.png" width="16" height="16"/> Real-time transaction dashboard  
+### 💳 E-Wallet Mobile Application  
+> **Secure transaction platform** with Firebase integration  
+> - 🔐 Biometric authentication and balance encryption  
+> - 📊 Real-time transaction history dashboard  
+> - 🔄 Firebase Cloud Sync with OCI backup  
+> *Tech: Flutter • Dart • Firebase • Provider State Management*
 
 ---
 
 <!-- ============================ -->
 <!--      CERTIFICATIONS          -->
 <!-- ============================ -->
-## <img src="https://img.icons8.com/3d-fluency/24/graduation-cap.png" width="28" height="28"/> Certifications
+## 📜 Certifications
 
-| <img src="https://img.icons8.com/color/24/certificate.png" width="20" height="20"/> Certification | <img src="https://img.icons8.com/color/24/company.png" width="20" height="20"/> Issuer | <img src="https://img.icons8.com/color/24/calendar.png" width="20" height="20"/> Year |
-|--------------------------------|---------------|------|
-| **Oracle APEX Cloud Developer Certified Professional** | Oracle | 2025 |
-| **Oracle Cloud Infrastructure Foundations Associate** | Oracle | 2025 |
-| **Oracle Cloud AI Foundations Associate** | Oracle | 2025 |
-| **AI Vector Search Specialist** | Oracle | 2025 |
+| Certification | Issuer | Year | Badge |
+|--------------|--------|------|-------|
+| **Oracle APEX Cloud Developer Certified Professional** | Oracle | 2025 | ![APEX Certified](https://img.shields.io/badge/Oracle-APEX_Professional-F80000?style=flat&logo=oracle) |
+| **Oracle Cloud Infrastructure Foundations Associate** | Oracle | 2025 | ![OCI Certified](https://img.shields.io/badge/Oracle-OCI_Associate-FF0000?style=flat&logo=oracle) |
+| **Oracle Cloud AI Foundations Associate** | Oracle | 2025 | ![AI Certified](https://img.shields.io/badge/Oracle-AI_Associate-FF0000?style=flat&logo=oracle) |
+| **Agile Methodology Professional** | Edraak | 2023 | ![Agile](https://img.shields.io/badge/Agile-Certified-009688?style=flat) |
 
 ---
 
 <!-- ============================ -->
 <!--         SOFT SKILLS          -->
 <!-- ============================ -->
-## <img src="https://img.icons8.com/3d-fluency/24/group-task.png" width="28" height="28"/> Professional Attributes
+## 🌟 Professional Attributes
 
-| <img src="https://img.icons8.com/color/24/skills.png" width="20" height="20"/> Skill | <img src="https://img.icons8.com/color/24/description.png" width="20" height="20"/> Demonstration |
-|------------------------|----------------|
-| **<img src="https://img.icons8.com/color/24/puzzle.png" width="16" height="16"/> Adaptive Problem-Solving** | Migration solutions with 40% performance gain |
-| **<img src="https://img.icons8.com/color/24/shield.png" width="16" height="16"/> Technical Integrity** | 8-tier security implementation |
-| **<img src="https://img.icons8.com/color/24/agile.png" width="16" height="16"/> Agile Execution** | CI/CD pipelines for medical system |
-| **<img src="https://img.icons8.com/color/24/continuous-improvement.png" width="16" height="16"/> Continuous Learning** | 4 Oracle certifications in 2025 |
-| **<img src="https://img.icons8.com/color/24/conference.png" width="16" height="16"/> Cross-functional Collaboration** | Bilingual team coordination |
+| Skill | Icon | Description |
+|-------|------|-------------|
+| **Problem Solving** | 🧩 | Adaptive solutions for complex technical challenges |
+| **Technical Integrity** | 🛡️ | Rigorous code validation & 8-tier security protocols |
+| **Agile Execution** | ⚡ | Sprint-driven delivery with CI/CD pipelines |
+| **Continuous Learning** | 📚 | 3 Oracle certifications earned in 2025 |
+| **Bilingual Communication** | 🌐 | Fluent Arabic/English technical documentation |
 
 ---
 
 <!-- ============================ -->
 <!--         CONTACT             -->
 <!-- ============================ -->
-## <img src="https://img.icons8.com/3d-fluency/24/phone.png" width="28" height="28"/> Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:malek.m.edresi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-malek.m.edresi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-malek.m.edresi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/malek-al-edresi-0a487720b">
-    <img src="https://img.shields.io/badge/LinkedIn-%40malekal--edresi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Malek_Al_Edresi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/malek-mohammed7788">
     <img src="https://img.shields.io/badge/GitHub-malek--mohammed7788-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="tel:+967778888730">
-    <img src="https://img.shields.io/badge/Phone-%2B967%20778%20888%20730-008000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-%2B967%20778%20888%20730-008000?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone">
   </a>
 </p>
 
@@ -138,8 +145,8 @@
 <!--           FOOTER             -->
 <!-- ============================ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/logo.png" alt="AL-MALIK Logo" width="100" style="margin:15px 0">
-  <p align="center" style="font-size:0.9rem;color:#555;font-weight:600;">
-    <em>Innovating healthcare technology through secure, scalable solutions</em>
+  <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/logo.png" alt="AL-MALIK Logo" width="120" style="margin-top:20px;">
+  <p align="center" style="font-size:0.9rem;color:#555;">
+    <em>Innovating healthcare through technology • AL-MALIK MEDICAL SYSTEM®</em>
   </p>
 </p>

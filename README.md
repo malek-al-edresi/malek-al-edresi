@@ -124,7 +124,7 @@
   <a href="https://linkedin.com/in/malek-al-edresi">
     <img src="https://img.shields.io/badge/LinkedIn-Malek_Al_Edresi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/malek-mohammed7788">
+  <a href="https://github.com/malek-al-edresi">
     <img src="https://img.shields.io/badge/GitHub-malek--mohammed7788-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="tel:+967778888730">

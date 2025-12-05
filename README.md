@@ -4,7 +4,14 @@
 -->
 
 <!-- ============================ -->
-<!--        HEADER SECTION       -->
+<!--        TOP BANNER           -->
+<!-- ============================ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/malek-al-edresi/malek-al-edresi/main/logs/banner%20linkedin%20al-malek%20soft%20(1).png" alt="Malek Al-Edresi Banner" width="100%">
+</p>
+
+<!-- ============================ -->
+<!--       HEADER SECTION       -->
 <!-- ============================ -->
 <div align="center">
   <h1>

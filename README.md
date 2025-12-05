@@ -155,10 +155,10 @@
   <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://github.com/malek-al-edresi.png" width="150" alt="Project Image" />
+        <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/project-medical-center.jpg" width="150" alt="Medical Center Project" />
       </td>
       <td style="border: none; padding: 15px;">
-        <h3>🏥 Medical Center System (Oracle APEX + Flutter)</h3>
+        <h3>🏥 AL-MALIK Medical Center System</h3>
         <p>A full healthcare solution built on APEX 24.2 with a production-ready schema (120+ tables, 70+ views).</p>
         <ul>
           <li>Real-time Flutter sync using ORDS REST APIs</li>
@@ -171,7 +171,7 @@
     </tr>
     <tr>
       <td style="border: none; padding: 15px;">
-        <h3>⛽ Fuel Tracking System (APEX Modernization)</h3>
+        <h3>⛽ Fuel Tracking System</h3>
         <p>Rebuilt legacy Oracle Forms 6i system → APEX 24.1.</p>
         <ul>
           <li>Delivered modern bilingual UI + real-time dashboards</li>
@@ -181,15 +181,15 @@
         <strong>Tech Stack:</strong> APEX • SQL/PLSQL • Reports • UI/UX
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://github.com/malek-al-edresi.png" width="150" alt="Project Image" />
+        <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/project-fuel-tracking.jpg" width="150" alt="Fuel Tracking Project" />
       </td>
     </tr>
     <tr>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://github.com/malek-al-edresi.png" width="150" alt="Project Image" />
+        <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/project-ewallet.jpg" width="150" alt="E-Wallet Project" />
       </td>
       <td style="border: none; padding: 15px;">
-        <h3>💳 E-Wallet Mobile App (Flutter)</h3>
+        <h3>💳 E-Wallet Mobile App</h3>
         <p>Secure digital wallet prototype.</p>
         <ul>
           <li>Firebase Authentication</li>
@@ -212,38 +212,62 @@
   <table>
     <thead>
       <tr>
+        <th>🏆</th>
         <th>Certification</th>
+        <th>Issuer</th>
         <th>Year</th>
+        <th>Badge</th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <td>📊</td>
         <td><strong>Oracle APEX Cloud Developer Certified Professional</strong></td>
+        <td>Oracle</td>
         <td>2025</td>
+        <td><img src="https://img.shields.io/badge/Oracle-APEX_Professional-F80000?style=flat&logo=oracle" alt="APEX Certified"></td>
       </tr>
       <tr>
+        <td>🔒</td>
         <td><strong>Oracle Autonomous DB Cloud Certified Professional</strong></td>
+        <td>Oracle</td>
         <td>2025</td>
+        <td><img src="https://img.shields.io/badge/Oracle-Autonomous_DB_Professional-F80000?style=flat&logo=oracle" alt="Autonomous DB Certified"></td>
       </tr>
       <tr>
+        <td>☁️</td>
         <td><strong>Oracle Cloud Infrastructure Foundations Associate</strong></td>
+        <td>Oracle</td>
         <td>2025</td>
+        <td><img src="https://img.shields.io/badge/Oracle-OCI_Associate-FF0000?style=flat&logo=oracle" alt="OCI Certified"></td>
       </tr>
       <tr>
+        <td>🤖</td>
         <td><strong>Oracle Cloud AI Foundations Associate</strong></td>
+        <td>Oracle</td>
         <td>2025</td>
+        <td><img src="https://img.shields.io/badge/Oracle-AI_Associate-FF0000?style=flat&logo=oracle" alt="AI Certified"></td>
       </tr>
       <tr>
+        <td>🔥</td>
         <td><strong>Oracle MySQL HeatWave Implementation Associate</strong></td>
+        <td>Oracle</td>
         <td>2025</td>
+        <td><img src="https://img.shields.io/badge/MySQL-HeatWave_Implementation-4479A1?style=flat&logo=mysql&logoColor=white" alt="HeatWave Certified"></td>
       </tr>
       <tr>
+        <td>🔄</td>
         <td>Agile Methodology – Edraak</td>
+        <td>Edraak</td>
         <td>2023</td>
+        <td><img src="https://img.shields.io/badge/Agile-Certified-009688?style=flat" alt="Agile Certified"></td>
       </tr>
       <tr>
+        <td>🎨</td>
         <td>UX Design – Edraak</td>
+        <td>Edraak</td>
         <td>2023</td>
+        <td><img src="https://img.shields.io/badge/UX-Design-009688?style=flat" alt="UX Certified"></td>
       </tr>
     </tbody>
   </table>

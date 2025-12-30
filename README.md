@@ -6,9 +6,9 @@
 <!-- ============================ -->
 <!--        TOP BANNER           -->
 <!-- ============================ -->
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Malek Al-Edresi Banner"}}
-</tool_call>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/malek-al-edresi/malek-al-edresi/main/logs/banner%20linkedin%20al-malek%20soft%20(1).png" alt="Malek Al-Edresi Banner" width="100%">
+</p>
 
 <!-- ============================ -->
 <!--       HEADER SECTION       -->
@@ -86,28 +86,6 @@
   </p>
 </div>
 
-<!-- ============================ -->
-<!--       PROJECTS SHOWCASE     -->
-<!-- ============================ -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🏥 Medical Center Management System</h3>
-        <p>Full-stack enterprise solution with 150+ APEX pages, Flutter mobile app, and 120+ database tables</p>
-        <p><strong>Technologies:</strong> Oracle APEX, PL/SQL, Flutter, REST APIs, JasperReports</p>
-        <p><strong>Impact:</strong> +40% operational efficiency improvement</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>📱 Real-time Patient Portal</h3>
-        <p>Mobile application with real-time APEX backend integration for healthcare management</p>
-        <p><strong>Technologies:</strong> Flutter, Dart, Oracle APEX, REST APIs, Firebase</p>
-        <p><strong>Impact:</strong> Enhanced patient engagement and data accessibility</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- ============================ -->
 <!--       TECHNICAL SKILLS       -->
@@ -160,6 +138,7 @@
     <img src="https://img.shields.io/badge/Software-Testing-008000?style=for-the-badge" />
   </p>
 </div>
+
 
 <!-- ============================ -->
 <!--      CERTIFICATIONS        -->
@@ -245,54 +224,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<!-- ============================ -->
-<!--       ACHIEVEMENTS          -->
-<!-- ============================ -->
-<div align="center">
-  <h2>🏆 Key Achievements</h2>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <strong>📈</strong><br>
-        <strong>+40% Efficiency</strong><br>
-        Performance improvement in Oracle Forms to APEX migration
-      </td>
-      <td align="center" width="25%">
-        <strong>🏥</strong><br>
-        <strong>150+ APEX Pages</strong><br>
-        Complete medical center system development
-      </td>
-      <td align="center" width="25%">
-        <strong>📱</strong><br>
-        <strong>Mobile Integration</strong><br>
-        Real-time Flutter app with APEX backend
-      </td>
-      <td align="center" width="25%">
-        <strong>🔒</strong><br>
-        <strong>Secure Systems</strong><br>
-        Enterprise-grade security implementation
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- ============================ -->
-<!--       TECHNOLOGY STACK      -->
-<!-- ============================ -->
-<div align="center">
-  <h2>🛠️ Technology Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/ORDS-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/JasperReports-008000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </p>
 </div>
 
 <!-- ============================ -->

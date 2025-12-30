@@ -7,7 +7,7 @@
 <!--        TOP BANNER           -->
 <!-- ============================ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malek-al-edresi/malek-al-edresi/main/logs/banner%20linkedin%20al-malek%20soft%20(1).png" alt="Malek Al-Edresi Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/malek-al-edresi/malek-al-edresi/main/logs/banner%20linkedin%20al-malek%20soft%20  (1).png" alt="Malek Al-Edresi Banner" width="100%">
 </p>
 
 <!-- ============================ -->
@@ -169,36 +169,6 @@
         <strong>Tech Stack:</strong> APEX 24.x • PL/SQL • Flutter • OCI • ORDS • 26ai Docker
       </td>
     </tr>
-    <tr>
-      <td style="border: none; padding: 15px;">
-        <h3>⛽ Fuel Tracking System</h3>
-        <p>Rebuilt legacy Oracle Forms 6i system → APEX 24.1.</p>
-        <ul>
-          <li>Delivered modern bilingual UI + real-time dashboards</li>
-          <li>Optimized packages for <strong>+40% performance gain</strong></li>
-          <li>Added automated compliance reporting</li>
-        </ul>
-        <strong>Tech Stack:</strong> APEX • SQL/PLSQL • Reports • UI/UX
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/project-fuel-tracking.jpg" width="150" alt="Fuel Tracking Project" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/project-ewallet.jpg" width="150" alt="E-Wallet Project" />
-      </td>
-      <td style="border: none; padding: 15px;">
-        <h3>💳 E-Wallet Mobile App</h3>
-        <p>Secure digital wallet prototype.</p>
-        <ul>
-          <li>Firebase Authentication</li>
-          <li>Transaction history + ledger</li>
-          <li>Encrypted local storage</li>
-        </ul>
-        <strong>Tech Stack:</strong> Flutter • Dart • Firebase
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -254,20 +224,6 @@
         <td>Oracle</td>
         <td>2025</td>
         <td><img src="https://img.shields.io/badge/MySQL-HeatWave_Implementation-4479A1?style=flat&logo=mysql&logoColor=white" alt="HeatWave Certified"></td>
-      </tr>
-      <tr>
-        <td>🔄</td>
-        <td>Agile Methodology – Edraak</td>
-        <td>Edraak</td>
-        <td>2023</td>
-        <td><img src="https://img.shields.io/badge/Agile-Certified-009688?style=flat" alt="Agile Certified"></td>
-      </tr>
-      <tr>
-        <td>🎨</td>
-        <td>UX Design – Edraak</td>
-        <td>Edraak</td>
-        <td>2023</td>
-        <td><img src="https://img.shields.io/badge/UX-Design-009688?style=flat" alt="UX Certified"></td>
       </tr>
     </tbody>
   </table>

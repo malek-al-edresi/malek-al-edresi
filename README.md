@@ -142,36 +142,6 @@
   </p>
 </div>
 
-<!-- ---
-<!-- 
-<!-- ============================ -->
-<!--       PROJECTS SECTION      -->
-<!-- ============================ -->
-<div align="center">
-  <h2>💼 Featured Projects</h2>
-</div>
-
-<div align="center">
-  <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/malek-mohammed/assets/main/branding/project-medical-center.jpg" width="150" alt="Medical Center Project" />
-      </td>
-      <td style="border: none; padding: 15px;">
-        <h3>🏥 AL-MALIK Medical Center System</h3>
-        <p>A full healthcare solution built on APEX 24.2 with a production-ready schema (120+ tables, 70+ views).</p>
-        <ul>
-          <li>Real-time Flutter sync using ORDS REST APIs</li>
-          <li>APEX_MAIL & WhatsApp API notifications</li>
-          <li>Audit logs, RBAC security, JasperReports engine</li>
-          <li>Backend performance increased by 35%</li>
-        </ul>
-        <strong>Tech Stack:</strong> APEX 24.x • PL/SQL • Flutter • OCI • ORDS • 26ai Docker
-      </td>
-    </tr>
-  </table>
-</div> --> -->
-
 ---
 
 <!-- ============================ -->

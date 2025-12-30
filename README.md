@@ -38,15 +38,15 @@
   <img src="https://komarev.com/ghpvc/?username=malek-al-edresi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<br />
+<!-- <br />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=malek-al-edresi&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<br />
+<br /> -->
 
-### 🎯 About Me
+# 🎯 About Me
 
 > Results-driven **Software Engineer** specialized in Oracle APEX, PL/SQL, Database Architecture, and RESTful APIs (ORDS). Skilled in building enterprise systems, optimizing performance (+40%), and integrating APEX backends with Flutter apps in real time.
 

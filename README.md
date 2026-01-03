@@ -40,8 +40,6 @@ Software Engineer specializing in **Oracle APEX**, **PL/SQL**, and **cloud-nativ
 - Database architecture, modeling, and performance tuning
 - Docker containerization and CI/CD automation
 
----
-
 ## 📬 Let's Connect
 
 <div align="center">

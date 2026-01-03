@@ -23,8 +23,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Medium&size=22&duration=4000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Oracle+APEX+Engineer;PL/SQL+%26+Database+Specialist;Cloud+%26+Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 Software Engineer specializing in **Oracle APEX**, **PL/SQL**, and **cloud-native database solutions**. I design and build enterprise-grade systems with a focus on performance, security, and scalability.

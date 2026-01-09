@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="logs/banner-linkedin-al-malek-soft.png" alt="Malek Al-Edresi Banner" width="100%">
+  <img src="/logs/banner-linkedin-al-malek-soft.png" alt="Malek Al-Edresi Banner" width="100%">
 </p>
 
 <div align="center">

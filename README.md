@@ -28,7 +28,8 @@
 Software Engineer specializing in **Oracle APEX**, **PL/SQL**, and **cloud-native database solutions**. I design and build enterprise-grade systems with a focus on performance, security, and scalability.
 
 **Key Achievements:**
-- 🏥 **Medical Center System**: Built a comprehensive healthcare platform with 150+ APEX pages, Flutter mobile app, and 120+ database tables
+- 🏥 **Enterprise Management Platform**: Designed and delivered a large-scale, multi-module system (150+ Oracle APEX pages, Flutter mobile application, 120+ database tables) focused on workflow automation, data management, and operational efficiency.
+- 
 - ⚡ **Performance Optimization**: Delivered 40% efficiency improvements through advanced SQL/PL/SQL tuning
 - ☁️ **Cloud & AI Integration**: Hands-on experience with OCI, Autonomous Database, and Oracle 26ai
 

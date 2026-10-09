@@ -111,11 +111,11 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
 
 ### 🏛️ Architecture Highlights
 
-- **Multi-Tenancy**: Master schema (`MEDICAL_CENTER_SYSTEM`) + isolated tenant schemas (`MED_TENANT_*`) + admin registry (`MED_ADMIN`)
-- **Container Topology**: Nginx Edge Proxy → ORDS Medical → Oracle Database 26ai → JasperReports
-- **AI Integration**: Oracle AI Vector Search, RAG workflows, ONNX embedding models, semantic search
-- **DevOps Pipeline**: Liquibase release generation, controlled tenant deployment, GitHub backup automation
-- **Security**: Schema-level isolation, custom auth, MFA/OTP, password hashing, comprehensive audit trails
+- **Multi-Tenancy**: Isolated tenant data model with centralized administration and secure separation between tenants.
+- **Deployment Architecture**: Layered application, data, and reporting services behind a secure edge/reverse proxy.
+- **AI Integration**: AI-powered semantic search and retrieval workflows for intelligent data access.
+- **DevOps Pipeline**: Automated database change management, versioned releases, and controlled tenant deployments.
+- **Security**: Strong tenant isolation, authentication and access controls, and comprehensive audit logging.
 
 ### 🔧 Key Modules
 
@@ -132,20 +132,19 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
 | 🤖 **AI/RAG System** | Document embeddings, vector chunks, AI assistants |
 
 ---
-
 ## 📬 Let's Connect
 
 <div align="center">
   <a href="mailto:malek.m.edresi@gmail.com">
     <img src="https://img.shields.io/badge/Email-malek.m.edresi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/malek-al-edresi">
-    <img src="https://img.shields.io/badge/LinkedIn-Malek_Al_Edresi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/malek-al-edresi/">
+    <img src="https://img.shields.io/badge/LinkedIn-malek--al--edresi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/malek-al-edresi">
     <img src="https://img.shields.io/badge/GitHub-malek--al--edresi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://ace.oracle.com/pls/apex/ace_program/r/ace/oracle-aces/home?p5_ace_id=malek-al-edresi">
+  <a href="https://ace.oracle.com/ords/ace/profile/malekaledresi">
     <img src="https://img.shields.io/badge/Oracle_ACE-Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle ACE">
   </a>
   <a href="tel:+967778888730">

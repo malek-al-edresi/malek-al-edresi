@@ -23,7 +23,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Medium&size=22&duration=4000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Oracle+APEX+Engineer;PL%2FSQL+%26+Database+Specialist;Multi-Tenant+SaaS+Architect;Cloud+%26+Full-Stack+Developer;AI+%26+Vector+Search+Enthusiast" alt="Typing SVG" />
 </div>
 
----
+
 
 ## 🏆 GitHub Ranking in Yemen
 
@@ -87,7 +87,6 @@ AI & Tools:
   - SQL Developer, Postman, OpenWA, Twilio
 ```
 
----
 
 ## 🏗️ Featured Project: Oracle APEX Medical Center System
 
@@ -131,7 +130,7 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
 | 💰 **Accounting** | Ledger mapping, expenses, AR/AP, financial KPIs |
 | 🤖 **AI/RAG System** | Document embeddings, vector chunks, AI assistants |
 
----
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -152,7 +151,6 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
   </a>
 </div>
 
----
 
 ## 🏅 Certifications
 
@@ -170,7 +168,6 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
 
 </div>
 
----
 
 ## 📈 GitHub Stats
 
@@ -183,7 +180,6 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-al-edresi&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages">
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004AAD&height=100&section=footer" alt="Footer" width="100%">

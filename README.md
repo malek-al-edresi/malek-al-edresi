@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=40&duration=3000&color=004AAD&center=true&vCenter=true&width=800&lines=Malek+Mohammed+Al-Edresi" alt="Typing SVG" />
   </h1>
   <p>
-    <strong>Oracle ACE Associate ♠️ | Software Engineer | Oracle APEX Developer (OCP) | Oracle Database & PL/SQL Engineer | 7x Oracle Certified | AI Vector Search (OCP) | Autonomous DB (OCP) | OCI | PL/SQL | Docker | DevOps & CI/CD | REST APIs | Flutter</strong>
+    <strong>Oracle ACE Associate ♠️ | Software Engineer</strong>
   </p>
   <img src="https://komarev.com/ghpvc/?username=malek-al-edresi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>

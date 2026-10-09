@@ -1,4 +1,3 @@
-```markdown
 <!-- 
   GitHub Profile README - Malek Mohammed Al-Edresi
   Oracle ACE Associate | OCP | APEX & Autonomous Database Specialist
@@ -194,4 +193,3 @@ A **Docker-based, multi-tenant enterprise platform** built around **Oracle Datab
 <p align="center">
   <em>⭐ From <a href="https://github.com/malek-al-edresi">Malek Al-Edresi</a> — Building enterprise-grade Oracle solutions</em>
 </p>
-```

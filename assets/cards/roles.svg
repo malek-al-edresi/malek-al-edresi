@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64">
+<style>
+.r { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 21px; font-weight: 600; letter-spacing: .3px; fill: #C74634; text-anchor: middle; opacity: 0;
+      animation: role 13.0s cubic-bezier(.2,.7,.2,1) infinite backwards; }
+.d { opacity: 0; animation: dot 13.0s linear infinite; }
+@keyframes role {
+  0% { opacity: 0; transform: translateY(12px); }
+  3.00% { opacity: 1; transform: none; }
+  17.00% { opacity: 1; transform: none; }
+  20.00% { opacity: 0; transform: translateY(-12px); }
+  100% { opacity: 0; transform: translateY(-12px); }
+}
+@keyframes dot { 0%, 20.00% { opacity: 1; } 20.01%, 100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .r, .d { animation: none; } }
+</style>
+<text class="r" x="440.0" y="32" style="animation-delay:0.0s;opacity:1">Oracle APEX Engineering</text><text class="r" x="440.0" y="32" style="animation-delay:2.6s;">PL/SQL &amp; Database Architecture</text><text class="r" x="440.0" y="32" style="animation-delay:5.2s;">Multi-Tenant SaaS Architecture</text><text class="r" x="440.0" y="32" style="animation-delay:7.8s;">Cloud &amp; DevOps Automation</text><text class="r" x="440.0" y="32" style="animation-delay:10.4s;">AI Vector Search &amp; RAG</text><circle cx="412.0" cy="54" r="3" fill="#8B949E" opacity=".45"/><circle cx="426.0" cy="54" r="3" fill="#8B949E" opacity=".45"/><circle cx="440.0" cy="54" r="3" fill="#8B949E" opacity=".45"/><circle cx="454.0" cy="54" r="3" fill="#8B949E" opacity=".45"/><circle cx="468.0" cy="54" r="3" fill="#8B949E" opacity=".45"/><circle class="d" cx="412.0" cy="54" r="3" fill="#C74634" style="animation-delay:0.0s;opacity:1"/><circle class="d" cx="426.0" cy="54" r="3" fill="#C74634" style="animation-delay:2.6s;"/><circle class="d" cx="440.0" cy="54" r="3" fill="#C74634" style="animation-delay:5.2s;"/><circle class="d" cx="454.0" cy="54" r="3" fill="#C74634" style="animation-delay:7.8s;"/><circle class="d" cx="468.0" cy="54" r="3" fill="#C74634" style="animation-delay:10.4s;"/>
+</svg>
